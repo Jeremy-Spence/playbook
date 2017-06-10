@@ -1,0 +1,6 @@
+framework module Pods_Playbook {
+  umbrella header "Pods-Playbook-umbrella.h"
+
+  export *
+  module * { export * }
+}
